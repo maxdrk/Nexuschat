@@ -1,4 +1,4 @@
-# 💬 NexusChat
+#  NexusChat
 
 > Application de messagerie instantanée sécurisée — Projet de Fin d'Études (TFE)
 
@@ -12,7 +12,7 @@ NexusChat est une solution complète de messagerie instantanée sécurisée, dé
 
 ---
 
-## 🏗️ Architecture Système & Infrastructure
+##  Architecture Système & Infrastructure
 
 L'ensemble du projet repose sur une architecture robuste et auto-hébergée :
 
@@ -25,15 +25,15 @@ L'ensemble du projet repose sur une architecture robuste et auto-hébergée :
 
 ---
 
-## 🚀 Fonctionnalités Clés
+##  Fonctionnalités Clés
 
-### 🔐 Sécurité & Confidentialité
+###  Sécurité & Confidentialité
 
 - **Chiffrement de bout en bout** — Les messages sont chiffrés via l'API avant stockage en base de données, avec gestion isolée des clés de déchiffrement.
 - **Authentification sécurisée** — Alertes e-mail automatiques lors de tentatives de connexion.
 - **Vérification de compte** — Validation par e-mail pour éviter les faux comptes.
 
-### 💬 Messagerie Avancée
+###  Messagerie Avancée
 
 - **Multimédia** — Support des messages textuels, intégration de GIFs via Giphy et partage de fichiers joints par URL.
 - **Gestion Sociale** — Recherche d'utilisateurs et gestion complète des demandes d'amis (accepter / refuser / supprimer).
@@ -41,7 +41,7 @@ L'ensemble du projet repose sur une architecture robuste et auto-hébergée :
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 | Couche | Technologie |
 |---|---|
@@ -52,7 +52,7 @@ L'ensemble du projet repose sur une architecture robuste et auto-hébergée :
 
 ---
 
-## 📂 Organisation du Code Frontend
+## Organisation du Code Frontend
 ```
 lib/
 ├── main.dart          # Point d'entrée de l'app et initialisation des services
@@ -66,7 +66,7 @@ lib/
 └── settings.dart      # Paramètres de l'application
 ```
 ---
-## 🎓 Contexte du TFE
+##  Contexte du TFE
 
 Ce projet est l'aboutissement d'une formation en informatique. Il démontre la capacité à concevoir une solution logicielle **Full Stack** complète :
 
@@ -76,5 +76,9 @@ Ce projet est l'aboutissement d'une formation en informatique. Il démontre la c
 - 📱 Publication d'une **interface mobile Flutter**
 
 ---
+
+### Documentation nexuschat 
+
+TFE.pdf
 
 **Développé par Maxime Derick** — Diplôme d'informatique · 2025
